@@ -11,6 +11,7 @@ scipy = "*"
 matplotlib = "*"
 seaborn = "*"
 sklearn = "*"
+notebook = "*"
 
 [requires]
 python_version = "3.8"
