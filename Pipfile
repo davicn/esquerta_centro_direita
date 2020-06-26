@@ -12,6 +12,7 @@ matplotlib = "*"
 seaborn = "*"
 sklearn = "*"
 notebook = "*"
+xlrd = "*"
 
 [requires]
 python_version = "3.8"
